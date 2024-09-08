@@ -60,23 +60,6 @@ Aqui estão alguns exemplos de filmes disponíveis na base de dados:
   - **Link**: [Assistir na Prime Video](https://www.primevideo.com/-/pt/detail/Interestelar/0PUNMGZEWOMYFKR1XIGOLTL2YM)
   - **Tags**: espaço, ficção científica, exploração, viagem espacial, buracos de minhoca, astronautas, futuro, humanidade
 
-## Contribuição
-
-Se você deseja contribuir para este projeto, siga estas etapas:
-
-1. **Faça um Fork do repositório**
-2. **Crie uma branch para sua feature**
-    ```bash
-    git checkout -b minha-nova-feature
-    ```
-3. **Faça suas alterações e adicione commits**
-    ```bash
-    git commit -am 'Adiciona nova feature'
-    ```
-4. **Envie suas alterações para o repositório remoto**
-    ```bash
-    git push origin minha-nova-feature
-    ```
 5. **Abra um Pull Request**
 
 ## Licença
