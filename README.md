@@ -25,11 +25,13 @@ Mr. Robot
 Descrição: Mr. Robot é uma série de televisão americana que estreou em 2015, criada e dirigida por Sam Esmail. A trama gira em torno de Elliot Alderson, um engenheiro de segurança cibernética com problemas mentais que é recrutado por um misterioso grupo de hackers, liderado por um homem que se autodenomina Mr. Robot. A série explora temas como a cibersegurança, a alienação social, a conspiração e a luta contra o sistema, tudo isso com uma estética visual marcante e uma trilha sonora memorável. Com reviravoltas inesperadas e uma narrativa complexa, Mr. Robot rapidamente se tornou um fenômeno cultural, conquistando o público e a crítica especializada.
 Link: Assistir na Prime Video
 Tags: hackers, cibersegurança, conspiração, anti-sistema, drama psicológico, tecnologia
+
 O Poderoso Chefão
 
 Descrição: Um épico sobre uma família mafiosa italiana nos Estados Unidos, retratando a ascensão e queda de Michael Corleone. Lançado em 1972, o filme é considerado um clássico do cinema.
 Link: Assistir na Netflix
 Tags: máfia, clássico, família, crime, poder, drama, itália, michael corleone
+
 Interestelar
 
 Descrição: Um grupo de astronautas embarca em uma missão para encontrar um novo lar para a humanidade, explorando os confins do universo.
