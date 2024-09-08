@@ -68,8 +68,8 @@ Este projeto é licenciado sob a Licença **WillMikemw3** - consulte o arquivo [
 
 Se você tiver dúvidas ou sugestões, entre em contato com [maicongameplayermw3@gmail.com](mailto:maicongameplayermw3@gmail.com) ou abra uma issue no repositório.
 
-Você também pode contribuir para o projeto via PIX: [c79e38f0-54e9-4642-8744-121a2a135f22).
+Apoie minha Carreira em Programação me Ajudando: [c79e38f0-54e9-4642-8744-121a2a135f22).
 
 ## Feito por
 
-Imersão Dev da Alura com Google Gemini.
+ WillmikeMW3 Com A Imersão Dev da Alura com Google Gemini.
